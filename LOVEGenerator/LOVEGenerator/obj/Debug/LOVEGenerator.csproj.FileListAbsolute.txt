@@ -1,0 +1,10 @@
+C:\Users\elmuroddev\source\repos\LOVEGenerator\LOVEGenerator\bin\Debug\LOVEGenerator.exe.config
+C:\Users\elmuroddev\source\repos\LOVEGenerator\LOVEGenerator\bin\Debug\LOVEGenerator.exe
+C:\Users\elmuroddev\source\repos\LOVEGenerator\LOVEGenerator\bin\Debug\LOVEGenerator.pdb
+C:\Users\elmuroddev\source\repos\LOVEGenerator\LOVEGenerator\obj\Debug\LOVEGenerator.csproj.AssemblyReference.cache
+C:\Users\elmuroddev\source\repos\LOVEGenerator\LOVEGenerator\obj\Debug\LOVEGenerator.Form1.resources
+C:\Users\elmuroddev\source\repos\LOVEGenerator\LOVEGenerator\obj\Debug\LOVEGenerator.Properties.Resources.resources
+C:\Users\elmuroddev\source\repos\LOVEGenerator\LOVEGenerator\obj\Debug\LOVEGenerator.csproj.GenerateResource.cache
+C:\Users\elmuroddev\source\repos\LOVEGenerator\LOVEGenerator\obj\Debug\LOVEGenerator.csproj.CoreCompileInputs.cache
+C:\Users\elmuroddev\source\repos\LOVEGenerator\LOVEGenerator\obj\Debug\LOVEGenerator.exe
+C:\Users\elmuroddev\source\repos\LOVEGenerator\LOVEGenerator\obj\Debug\LOVEGenerator.pdb
